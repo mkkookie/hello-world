@@ -1,2 +1,2 @@
 # hello-world
-First repository. Simple beginner program. 
+My name is Amanda and I am a student at Arizona State University.
